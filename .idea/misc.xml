@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/nechto/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/nechto/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/nechto/app/src/main/res/layout/activity_sing_in.xml" value="0.33" />
+        <entry key="..\:/nechto/app/src/main/res/layout/activity_sing_out.xml" value="0.1859375" />
       </map>
     </option>
   </component>
